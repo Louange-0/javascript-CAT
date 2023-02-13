@@ -1,0 +1,23 @@
+{
+  "name": "addingandproductncalculator",
+  "version": "1.0.1",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louange123/demo-repo.git"
+  },
+  "author": "Mbabazi Louange Liza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louange123/demo-repo/issues"
+  },
+  "homepage": "https://github.com/Louange123/demo-repo#readme",
+  "dependencies": {
+    "addingandproductncalculator": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
